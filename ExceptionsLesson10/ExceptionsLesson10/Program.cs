@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string login = "NewUserArtur";
+            string login = "NewUserArtur!1";
             string password = "asdfdfgdgfghhgh1";
             string confirmPassword=" ";
             UserRegistrationService.RegisterUser(login, password, confirmPassword);
