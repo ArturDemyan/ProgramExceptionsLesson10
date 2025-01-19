@@ -1,0 +1,7 @@
+
+*.csproj
+*.sln
+/ExceptionsLesson10/bin
+/ExceptionsLesson10/obj
+/TestProject1/bin
+/TestProject1/obj
