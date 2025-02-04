@@ -10,9 +10,9 @@ namespace ExceptionsLesson10
     {
         private string _infoPasswordException;
         public WrongPasswordException():base() { }
-        public WrongPasswordException(string password)
+        public WrongPasswordException(string wrongPasswordMessage)
         {
-            _infoPasswordException = password;
+            _infoPasswordException = wrongPasswordMessage;
         }
     }
 }
